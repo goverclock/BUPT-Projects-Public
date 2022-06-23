@@ -1,3 +1,7 @@
+.VSCodeCounter/
+build/
+.vscode/
+
 # Prerequisites
 *.d
 
