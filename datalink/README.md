@@ -1,3 +1,3 @@
-SR.c SR.h by [GozSoft](https://github.com/GozSoft)
+SR.c SR.h by [goverclock](https://github.com/goverclock)
 
 GBN.c GBD.h by [zsc-124](https://github.com/zsc-124)
