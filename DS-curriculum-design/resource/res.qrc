@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/bird/bird1.png</file>
+        <file>img/bird/bird2.png</file>
+        <file>img/bird/bird5.png</file>
+        <file>img/bird/bird8.png</file>
+        <file>img/bird/bird3.png</file>
+        <file>img/bird/bird4.png</file>
+        <file>img/bird/bird6.png</file>
+        <file>img/bird/bird7.png</file>
+        <file>img/bird/bird9.png</file>
+        <file>img/bird/bird10.png</file>
+        <file>img/button_ico/activ.png</file>
+        <file>img/button_ico/map.png</file>
+        <file>img/button_ico/table.png</file>
+        <file>img/time_controller/0x.png</file>
+        <file>img/time_controller/1x.png</file>
+        <file>img/time_controller/2x.png</file>
+        <file>img/time_controller/3x.png</file>
+        <file>img/building/my_location.png</file>
+        <file>img/button_ico/search.png</file>
+        <file>img/ico/ico.png</file>
+    </qresource>
+</RCC>

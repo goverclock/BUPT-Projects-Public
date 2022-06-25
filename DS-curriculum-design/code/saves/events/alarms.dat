@@ -1,0 +1,19 @@
+# name, begin_time, end_time, other_time, period
+# (no addition info for this sub-class)
+起床闹钟
+1 6 0
+1 6 1
+0 0 0
+0
+
+午休闹钟
+2 12 0
+2 12 01
+0 0 0
+1
+
+晚休闹钟
+0 17 30
+0 17 31
+0 0 0
+2

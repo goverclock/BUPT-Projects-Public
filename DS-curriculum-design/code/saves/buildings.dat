@@ -1,0 +1,1415 @@
+# ID
+0
+# name
+规划待建区域
+# x, y, w, h
+55
+195
+110
+190
+#campus
+0
+
+# ID
+1
+# name
+快递
+# x, y, w, h
+25
+325
+50
+50
+#campus
+0
+
+# ID
+2
+# name
+基建
+# x, y, w, h
+85
+325
+50
+50
+#campus
+0
+
+# ID
+3
+# name
+运动场
+# x, y, w, h
+180
+225
+100
+250
+#campus
+0
+
+# ID
+4
+# name
+学生公寓甲
+# x, y, w, h
+300
+150
+100
+100
+#campus
+0
+
+# ID
+5
+# name
+学生公寓乙
+# x, y, w, h
+300
+300
+100
+100
+#campus
+0
+
+# ID
+6
+# name
+教工食堂
+# x, y, w, h
+420
+170
+80
+80
+#campus
+0
+
+# ID
+7
+# name
+学生食堂
+# x, y, w, h
+420
+280
+80
+80
+#campus
+0
+
+# ID
+8
+# name
+办公楼
+# x, y, w, h
+530
+170
+80
+80
+#campus
+0
+
+# ID
+9
+# name
+活动中心
+# x, y, w, h
+530
+280
+80
+80
+#campus
+0
+
+# ID
+30
+# name
+医务室
+# x, y, w, h
+530
+105
+80
+20
+#campus
+0
+
+# ID
+10
+# name
+图书馆
+# x, y, w, h
+735
+225
+150
+250
+#campus
+0
+
+# ID
+11
+# name
+东配楼
+# x, y, w, h
+860
+140
+80
+80
+#campus
+0
+
+# ID
+12
+# name
+咖啡馆
+# x, y, w, h
+860
+310
+80
+80
+#campus
+0
+
+# ID
+13
+# name
+规划待建区域
+# x, y, w, h
+115
+540
+230
+300
+#campus
+0
+
+# ID
+14
+# name
+学生公寓丙
+# x, y, w, h
+300
+490
+100
+160
+#campus
+0
+
+# ID
+31
+# name
+宿舍
+# x, y, w, h
+300
+640
+100
+100
+#campus
+0
+
+# ID
+15
+# name
+公共教学楼（待建）
+# x, y, w, h
+490
+450
+220
+120
+#campus
+0
+
+# ID
+16
+# name
+南区食堂
+# x, y, w, h
+450
+640
+140
+100
+#campus
+0
+
+# ID
+17
+# name
+教学实验综合楼
+# x, y, w, h
+780
+450
+240
+120
+#campus
+0
+
+# ID
+18
+# name
+学院楼
+# x, y, w, h
+780
+640
+240
+100
+#campus
+0
+
+# ID
+19
+# name
+湖
+# x, y, w, h
+780
+550
+240
+40
+#campus
+0
+
+# ID
+20
+# name
+家属区甲
+# x, y, w, h
+60
+227
+120
+255
+#campus
+1
+
+# ID
+21
+# name
+家属区乙
+# x, y, w, h
+225
+160
+150
+120
+#campus
+1
+
+# ID
+22
+# name
+科研楼
+# x, y, w, h
+240
+302
+140
+105
+#campus
+1
+
+# ID
+23
+# name
+东配楼
+# x, y, w, h
+435
+137
+180
+75
+#campus
+1
+
+# ID
+24
+# name
+家属区丙
+# x, y, w, h
+450
+235
+150
+60
+#campus
+1
+
+# ID
+25
+# name
+学生食堂
+# x, y, w, h
+450
+325
+150
+60
+#campus
+1
+
+# ID
+26
+# name
+学生公寓甲
+# x, y, w, h
+660
+145
+180
+90
+#campus
+1
+
+# ID
+27
+# name
+篮球场
+# x, y, w, h
+667
+287
+195
+135
+#campus
+1
+
+# ID
+28
+# name
+游泳馆
+# x, y, w, h
+880
+130
+110
+60
+#campus
+1
+
+# ID
+29
+# name
+体育馆
+# x, y, w, h
+880
+220
+110
+120
+#campus
+1
+
+# ID
+33
+# name
+学生公寓乙
+# x, y, w, h
+60
+475
+120
+120
+#campus
+1
+
+# ID
+34
+# name
+快递站
+# x, y, w, h
+60
+632
+120
+135
+#campus
+1
+
+# ID
+35
+# name
+综合服务楼
+# x, y, w, h
+210
+482
+120
+165
+#campus
+1
+
+# ID
+36
+# name
+学生活动中心
+# x, y, w, h
+210
+647
+120
+105
+#campus
+1
+
+# ID
+37
+# name
+学生发展中心
+# x, y, w, h
+427
+512
+195
+225
+#campus
+1
+
+# ID
+38
+# name
+图书馆
+# x, y, w, h
+667
+467
+195
+135
+#campus
+1
+
+# ID
+39
+# name
+小松林
+# x, y, w, h
+600
+625
+60
+120
+#campus
+1
+
+# ID
+40
+# name
+时光广场
+# x, y, w, h
+735
+625
+60
+120
+#campus
+1
+
+# ID
+41
+# name
+配电室
+# x, y, w, h
+832
+422
+45
+45
+#campus
+1
+
+# ID
+42
+# name
+财务处
+# x, y, w, h
+840
+662
+60
+70
+#campus
+1
+
+# ID
+43
+# name
+行政办公楼
+# x, y, w, h
+835
+527
+80
+105
+#campus
+1
+
+# ID
+32
+# name
+教一楼
+# x, y, w, h
+930
+557
+80
+315
+#campus
+1
+
+# ID
+44
+# name
+大门
+# x, y, w, h
+620
+770
+160
+100
+#campus
+0
+
+# ID
+45
+# name
+ 
+# x, y, w, h
+620
+105
+0
+0
+#campus
+0
+
+# ID
+46
+# name
+ 
+# x, y, w, h
+120
+195
+0
+0
+#campus
+0
+
+# ID
+47
+# name
+ 
+# x, y, w, h
+25
+370
+0
+0
+#campus
+0
+
+# ID
+48
+# name
+ 
+# x, y, w, h
+85
+370
+0
+0
+#campus
+0
+
+# ID
+49
+# name
+ 
+# x, y, w, h
+120
+370
+0
+0
+#campus
+0
+
+# ID
+50
+# name
+ 
+# x, y, w, h
+120
+225
+0
+0
+#campus
+0
+
+# ID
+51
+# name
+ 
+# x, y, w, h
+240
+370
+0
+0
+#campus
+0
+
+# ID
+52
+# name
+ 
+# x, y, w, h
+240
+150
+0
+0
+#campus
+0
+
+# ID
+53
+# name
+ 
+# x, y, w, h
+240
+300
+0
+0
+#campus
+0
+
+# ID
+54
+# name
+ 
+# x, y, w, h
+365
+370
+0
+0
+#campus
+0
+
+# ID
+55
+# name
+ 
+# x, y, w, h
+475
+370
+0
+0
+#campus
+0
+
+# ID
+56
+# name
+ 
+# x, y, w, h
+620
+370
+0
+0
+#campus
+0
+
+# ID
+57
+# name
+ 
+# x, y, w, h
+475
+225
+0
+0
+#campus
+0
+
+# ID
+58
+# name
+ 
+# x, y, w, h
+420
+225
+0
+0
+#campus
+0
+
+# ID
+59
+# name
+ 
+# x, y, w, h
+530
+225
+0
+0
+#campus
+0
+
+# ID
+60
+# name
+ 
+# x, y, w, h
+475
+280
+0
+0
+#campus
+0
+
+# ID
+61
+# name
+ 
+# x, y, w, h
+475
+170
+0
+0
+#campus
+0
+
+# ID
+62
+# name
+ 
+# x, y, w, h
+300
+225
+0
+0
+#campus
+0
+
+# ID
+63
+# name
+ 
+# x, y, w, h
+300
+370
+0
+0
+#campus
+0
+
+# ID
+64
+# name
+ 
+# x, y, w, h
+240
+540
+0
+0
+#campus
+0
+
+# ID
+65
+# name
+ 
+# x, y, w, h
+240
+490
+0
+0
+#campus
+0
+
+# ID
+66
+# name
+ 
+# x, y, w, h
+240
+640
+0
+0
+#campus
+0
+
+# ID
+67
+# name
+ 
+# x, y, w, h
+365
+450
+0
+0
+#campus
+0
+
+# ID
+68
+# name
+ 
+# x, y, w, h
+365
+490
+0
+0
+#campus
+0
+
+# ID
+69
+# name
+ 
+# x, y, w, h
+365
+640
+0
+0
+#campus
+0
+
+# ID
+70
+# name
+ 
+# x, y, w, h
+620
+225
+0
+0
+#campus
+0
+
+# ID
+71
+# name
+ 
+# x, y, w, h
+620
+450
+0
+0
+#campus
+0
+
+# ID
+72
+# name
+ 
+# x, y, w, h
+620
+660
+0
+0
+#campus
+0
+
+# ID
+73
+# name
+ 
+# x, y, w, h
+620
+640
+0
+0
+#campus
+0
+
+# ID
+74
+# name
+ 
+# x, y, w, h
+620
+550
+0
+0
+#campus
+0
+
+# ID
+75
+# name
+ 
+# x, y, w, h
+735
+370
+0
+0
+#campus
+0
+
+# ID
+76
+# name
+ 
+# x, y, w, h
+860
+370
+0
+0
+#campus
+0
+
+# ID
+77
+# name
+ 
+# x, y, w, h
+815
+370
+0
+0
+#campus
+0
+
+# ID
+78
+# name
+ 
+# x, y, w, h
+815
+310
+0
+0
+#campus
+0
+
+# ID
+79
+# name
+ 
+# x, y, w, h
+815
+140
+0
+0
+#campus
+0
+
+# ID
+80
+# name
+大门
+# x, y, w, h
+780
+770
+160
+100
+#campus
+1
+
+# ID
+81
+# name
+ 
+# x, y, w, h
+60
+370
+0
+0
+#campus
+1
+
+# ID
+82
+# name
+ 
+# x, y, w, h
+135
+370
+0
+0
+#campus
+1
+
+# ID
+83
+# name
+ 
+# x, y, w, h
+135
+227
+0
+0
+#campus
+1
+
+# ID
+84
+# name
+ 
+# x, y, w, h
+135
+160
+0
+0
+#campus
+1
+
+# ID
+85
+# name
+ 
+# x, y, w, h
+135
+302
+0
+0
+#campus
+1
+
+# ID
+86
+# name
+ 
+# x, y, w, h
+135
+475
+0
+0
+#campus
+1
+
+# ID
+87
+# name
+ 
+# x, y, w, h
+135
+632
+0
+0
+#campus
+1
+
+# ID
+88
+# name
+ 
+# x, y, w, h
+135
+482
+0
+0
+#campus
+1
+
+# ID
+89
+# name
+ 
+# x, y, w, h
+135
+647
+0
+0
+#campus
+1
+
+# ID
+90
+# name
+ 
+# x, y, w, h
+335
+370
+0
+0
+#campus
+1
+
+# ID
+91
+# name
+ 
+# x, y, w, h
+335
+137
+0
+0
+#campus
+1
+
+# ID
+92
+# name
+ 
+# x, y, w, h
+335
+235
+0
+0
+#campus
+1
+
+# ID
+93
+# name
+ 
+# x, y, w, h
+335
+325
+0
+0
+#campus
+1
+
+# ID
+94
+# name
+ 
+# x, y, w, h
+300
+370
+0
+0
+#campus
+1
+
+# ID
+95
+# name
+ 
+# x, y, w, h
+300
+482
+0
+0
+#campus
+1
+
+# ID
+96
+# name
+ 
+# x, y, w, h
+300
+647
+0
+0
+#campus
+1
+
+# ID
+97
+# name
+ 
+# x, y, w, h
+300
+512
+0
+0
+#campus
+1
+
+# ID
+98
+# name
+ 
+# x, y, w, h
+540
+370
+0
+0
+#campus
+1
+
+# ID
+99
+# name
+ 
+# x, y, w, h
+540
+137
+0
+0
+#campus
+1
+
+# ID
+100
+# name
+ 
+# x, y, w, h
+540
+235
+0
+0
+#campus
+1
+
+# ID
+101
+# name
+ 
+# x, y, w, h
+540
+325
+0
+0
+#campus
+1
+
+# ID
+102
+# name
+ 
+# x, y, w, h
+540
+145
+0
+0
+#campus
+1
+
+# ID
+103
+# name
+ 
+# x, y, w, h
+540
+287
+0
+0
+#campus
+1
+
+# ID
+104
+# name
+ 
+# x, y, w, h
+540
+512
+0
+0
+#campus
+1
+
+# ID
+105
+# name
+ 
+# x, y, w, h
+540
+467
+0
+0
+#campus
+1
+
+# ID
+106
+# name
+ 
+# x, y, w, h
+540
+625
+0
+0
+#campus
+1
+
+# ID
+107
+# name
+ 
+# x, y, w, h
+780
+370
+0
+0
+#campus
+1
+
+# ID
+108
+# name
+ 
+# x, y, w, h
+780
+467
+0
+0
+#campus
+1
+
+# ID
+109
+# name
+ 
+# x, y, w, h
+780
+625
+0
+0
+#campus
+1
+
+# ID
+110
+# name
+ 
+# x, y, w, h
+780
+422
+0
+0
+#campus
+1
+
+# ID
+111
+# name
+ 
+# x, y, w, h
+780
+662
+0
+0
+#campus
+1
+
+# ID
+112
+# name
+ 
+# x, y, w, h
+780
+527
+0
+0
+#campus
+1
+
+# ID
+113
+# name
+ 
+# x, y, w, h
+780
+220
+0
+0
+#campus
+1
+
+# ID
+114
+# name
+ 
+# x, y, w, h
+780
+130
+0
+0
+#campus
+1
+
+# ID
+115
+# name
+ 
+# x, y, w, h
+780
+287
+0
+0
+#campus
+1
+
+# ID
+116
+# name
+ 
+# x, y, w, h
+780
+145
+0
+0
+#campus
+1
+
+# ID
+117
+# name
+ 
+# x, y, w, h
+240
+225
+0
+0
+#campus
+0

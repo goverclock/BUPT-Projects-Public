@@ -1,0 +1,52 @@
+# name, begin_time, end_time, other_time, period
+# addition info:
+# building_ID, sub_type, group
+课外活动
+1 20 0
+1 22 0
+0 0 0
+0
+#addition
+40
+聚餐
+1
+
+课外活动
+7 13 10
+7 15 30
+0 0 0
+0
+#addition
+29
+锻炼
+0
+
+课外活动
+4 8 0
+4 9 30
+0 0 0
+1
+#addition
+10
+自习
+0
+
+课外活动
+5 15 0
+5 16 30
+0 0 0
+0
+#addition
+17
+班会
+1
+
+课外活动
+4 19 0
+4 21 0
+0 0 0
+0
+#addition
+14
+小组作业
+1
