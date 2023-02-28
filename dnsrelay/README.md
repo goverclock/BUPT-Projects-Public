@@ -1,5 +1,6 @@
-# DNS中继服务器
+[实验报告](./report.pdf)
 
+# DNS中继服务器
 
 Linu下修改DNS服务器的方法:
 
@@ -7,4 +8,4 @@ sudo vim /etc/resolv.conf
 
 建议使用的DNS: 114.114.114.114
 
-如何查看CNAME?使用`host -t cname baidu.com`
+查看CNAME:`host -t cname baidu.com`
