@@ -1,0 +1,89 @@
+Total Lines: 23
+Total Chars: 410
+
+Total Words:
+[    string]:	1
+[  constant]:	5
+[identifier]:	13
+[   keyword]:	10
+
+Symbols:
+"some errors are handled"
+'g'
+0
+1
+123.321
+2.
+____id_with_underline___
+_idwithdigit123_23
+a
+argc
+argv
+b
+c
+ch
+main
+printf
+puts
+
+Tokens:
+<   keyword>	int
+<identifier>	main
+<punctuator>	(
+<   keyword>	int
+<identifier>	argc
+<punctuator>	,
+<   keyword>	char
+<punctuator>	*
+<identifier>	argv
+<punctuator>	[
+<punctuator>	]
+<punctuator>	)
+<punctuator>	{
+<   keyword>	int
+<identifier>	a
+<punctuator>	=
+<  constant>	1
+<punctuator>	;
+<   keyword>	float
+<identifier>	b
+<punctuator>	=
+<  constant>	2.
+<punctuator>	,
+<identifier>	c
+<punctuator>	=
+<  constant>	123.321
+<punctuator>	;
+<   keyword>	char
+<identifier>	ch
+<punctuator>	=
+<  constant>	'g'
+<punctuator>	;
+<   keyword>	double
+<identifier>	____id_with_underline___
+<punctuator>	;
+<   keyword>	long
+<identifier>	_idwithdigit123_23
+<punctuator>	;
+<identifier>	printf
+<punctuator>	(
+<   keyword>	if
+<punctuator>	(
+<identifier>	a
+<punctuator>	>=
+<identifier>	b
+<punctuator>	)
+<punctuator>	{
+<identifier>	puts
+<punctuator>	(
+<    string>	"some errors are handled"
+<punctuator>	)
+<punctuator>	}
+<   keyword>	return
+<  constant>	0
+<punctuator>	;
+<punctuator>	}
+
+Errors:
+[15]	Invalid Punctuator: @
+[17]	No End Bracket: "Hello);
