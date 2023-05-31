@@ -168,7 +168,7 @@ char *question_init(struct QUESTION *q, char *buf) {
 
 void argument_resolv(int argc, char *argv[]) {
     char opt;
-    while ((opt = getopt(argc, argv, "d::a:f:")) != -1) {
+    while ((opt = getopt(argc, argv, "d::a:f:")) != 255) {
         if (opt == 'd') {
             if (optarg == NULL)
                 debug_level = 1;
