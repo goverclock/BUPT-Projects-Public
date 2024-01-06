@@ -1,0 +1,12 @@
+[submodule "BUPT-Charging-Station"]
+	path = BUPT-Charging-Station
+	url = git@github.com:goverclock/BUPT-Charging-Station.git
+[submodule "BUPT-DSL-in-go"]
+	path = BUPT-DSL-in-go
+	url = git@github.com:goverclock/BUPT-DSL-in-go.git
+[submodule "BUPT-DWDM"]
+	path = BUPT-DWDM
+	url = git@github.com:goverclock/BUPT-DWDM.git
+[submodule "BUPT-good-place"]
+	path = BUPT-good-place
+	url = git@github.com:goverclock/BUPT-good-place.git
